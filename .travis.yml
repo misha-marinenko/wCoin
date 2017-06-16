@@ -5,6 +5,8 @@ addons:
     packages:
       - cmake-data
       - cmake
+      - libboost-dev
+      - wget
 language: cpp
 compiler: gcc
 script:
