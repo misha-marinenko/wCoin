@@ -3,4 +3,4 @@
 git add .
 git add .*
 git commit -m $1
-git push origin github0
+git push origin origin
