@@ -1,3 +1,4 @@
+<img src="https://github.com/wh0ami-lab/wCoin/logo.png" alt="wCoin logo" title="wCoin" align="right" />
 # wCoin
 A free OpenSource-P2P-Crypto money for you.
 

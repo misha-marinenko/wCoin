@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg4152"
+   height="64"
+   width="64">
+  <defs
+     id="defs4154" />
+  <metadata
+     id="metadata4157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <ellipse
+       ry="31.308275"
+       rx="31.490095"
+       cy="32.454544"
+       cx="31.909088"
+       id="path4700"
+       style="fill:none;fill-opacity:0.74901961;stroke:#000000;stroke-width:0.91100001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.99989992;stroke-opacity:1" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot4702"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4704"><rect
+           style="font-size:25px;"
+           y="10.181818"
+           x="15.454545"
+           height="44.727272"
+           width="35.090908"
+           id="rect4706" /></flowRegion><flowPara
+         id="flowPara4708">Ww</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4711"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4713"><rect
+           y="11.636364"
+           x="15.818182"
+           height="40.909092"
+           width="32.18182"
+           id="rect4715" /></flowRegion><flowPara
+         id="flowPara4717">wwww</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4719"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4721"><rect
+           y="11.272727"
+           x="11.636364"
+           height="43.454544"
+           width="41.090908"
+           id="rect4723" /></flowRegion><flowPara
+         id="flowPara4725">Ww</flowPara></flowRoot>    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot4727"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4729"><rect
+           y="28.727272"
+           x="-57.454544"
+           height="43.454544"
+           width="41.272728"
+           id="rect4731" /></flowRegion><flowPara
+         id="flowPara4733"></flowPara></flowRoot>    <text
+       transform="scale(1.1600229,0.86205195)"
+       id="text4735"
+       y="18.342569"
+       x="36.572697"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.46153069px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.22096591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:1.32579541, 0.4419318;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.22096591"
+         y="18.342569"
+         x="36.572697"
+         id="tspan4737">w</tspan></text>
+    <text
+       transform="scale(0.9469349,1.0560388)"
+       id="text4739"
+       y="47.974495"
+       x="10.120969"
+       style="font-style:normal;font-weight:normal;font-size:74.72035217px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24.00000005, 1;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:24.00000005, 1;stroke-dashoffset:0;stroke-opacity:1"
+         y="47.974495"
+         x="10.120969"
+         id="tspan4741">c</tspan></text>
+  </g>
+</svg>
