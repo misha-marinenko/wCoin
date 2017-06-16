@@ -39,7 +39,7 @@ const char CRYPTONOTE_NAME[] = "furiouscoin";
 
 Example: 
 ```
-set_property(TARGET daemon PROPERTY OUTPUT_NAME "furiouscoind")
+set_property(TARGET daemon PROPERTY OUTPUT_NAME "wcoind")
 ```
 
 **Note:** You should also change a repository name.
@@ -190,7 +190,7 @@ Run your daemon with `--print-genesis-tx` argument. It will print out the genesi
 
 Example:
 ```
-furiouscoind --print-genesis-tx
+wcoind --print-genesis-tx
 ```
 
 
