@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/wh0ami-lab/wCoin/master/logo.png" alt="wCoin logo" title="wCoin" align="right" />
 
-wCoin
+wCoin [![Travis-CI Build](https://api.travis-ci.org/wh0ami-lab/wCoin.svg?branch=master)](http://github.com/wh0ami-lab/wCoin)
 ======================
 A free OpenSource-P2P-Crypto money for you.
 
