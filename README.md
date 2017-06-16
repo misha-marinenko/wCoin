@@ -4,6 +4,9 @@ wCoin [![Travis-CI Build](https://api.travis-ci.org/wh0ami-lab/wCoin.svg?branch=
 ======================
 A free OpenSource-P2P-Crypto money for you.
 
+### Current project status: not building, we need servers
+
+
 We are based on [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
